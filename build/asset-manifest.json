@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Portfolio/static/css/main.4dbc2249.css",
+    "main.js": "/ReactJs-Portfolio/static/js/main.6a1831b3.js",
+    "static/media/mihal.png": "/ReactJs-Portfolio/static/media/mihal.780ff0d10a7266b858bb.png",
+    "static/media/twitch.jpg": "/ReactJs-Portfolio/static/media/twitch.6284a2534e645a79fb73.jpg",
+    "static/media/usf.jpg": "/ReactJs-Portfolio/static/media/usf.94eb514849948d462f82.jpg",
+    "static/media/utac.jpg": "/ReactJs-Portfolio/static/media/utac.77a69b38707aee38fd58.jpg",
+    "static/media/agm.jpg": "/ReactJs-Portfolio/static/media/agm.549708bdad9f6863547c.jpg",
+    "static/media/madmobile-pre.jpg": "/ReactJs-Portfolio/static/media/madmobile-pre.2d8f993aee8b4f242fa8.jpg",
+    "static/media/flymotion-preview.jpg": "/ReactJs-Portfolio/static/media/flymotion-preview.790d777d3990dad54a61.jpg",
+    "static/media/youtube-react.jpg": "/ReactJs-Portfolio/static/media/youtube-react.70bcca59c9a4d03de1f2.jpg",
+    "static/media/store.jpg": "/ReactJs-Portfolio/static/media/store.15ab5df56e19f4f2bcce.jpg",
+    "static/media/weather-app.jpg": "/ReactJs-Portfolio/static/media/weather-app.765a9eed1ddfade626c8.jpg",
+    "static/media/mihallogo.png": "/ReactJs-Portfolio/static/media/mihallogo.e59df0e0b32d0282820c.png",
+    "static/media/avatar-3.svg": "/ReactJs-Portfolio/static/media/avatar-3.605f4f9b2d464df4897817a6278e52d7.svg",
+    "static/media/service-1.svg": "/ReactJs-Portfolio/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/avatar-2.svg": "/ReactJs-Portfolio/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/ReactJs-Portfolio/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/service-3.svg": "/ReactJs-Portfolio/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/ReactJs-Portfolio/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/dots-bg.svg": "/ReactJs-Portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/ReactJs-Portfolio/index.html",
+    "main.4dbc2249.css.map": "/ReactJs-Portfolio/static/css/main.4dbc2249.css.map",
+    "main.6a1831b3.js.map": "/ReactJs-Portfolio/static/js/main.6a1831b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dbc2249.css",
+    "static/js/main.6a1831b3.js"
+  ]
+}
